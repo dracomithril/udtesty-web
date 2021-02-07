@@ -1,25 +1,57 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "UD testy",
+  "name": "UD testy - Marimar",
   "icons": [
+    {
+      "src": "icons/manifest-icon-192.jpg",
+      "sizes": "192x192",
+      "type": "image/jpg",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "icons/manifest-icon-512.jpg",
+      "sizes": "512x512",
+      "type": "image/jpg",
+      "purpose": "maskable any"
+    },
     {
       "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
+      "src": "icons/marimar-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
     },
     {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "src": "icons/marimar-48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/marimar-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/marimar-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/marimar-152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/marimar-256.png",
+      "sizes": "256x256",
+      "type": "image/png"
     }
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#fef3f2",
+  "background_color": "#fef3f2"
 }
