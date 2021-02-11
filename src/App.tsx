@@ -8,8 +8,8 @@ function App() {
     <Layout>
       <Header />
       <Layout>
-        <Layout.Content>Content</Layout.Content>
         <Layout.Sider>Sider</Layout.Sider>
+        <Layout.Content>Content</Layout.Content>
       </Layout>
     </Layout>
   );
