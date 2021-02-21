@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TranslationForm should render component 1`] = `
+<body>
+  <div>
+    <div
+      data-testid="translation-form"
+    >
+      <div
+        class="ant-row ant-form-item ant-form-item-with-help sc-bdVaJa fCvIlw"
+        data-testid="choice.ABC.pl"
+      >
+        <div
+          class="ant-col ant-form-item-label"
+        >
+          <label
+            class="ant-form-item-required"
+            title="polski"
+          >
+            polski
+          </label>
+        </div>
+        <div
+          class="ant-col ant-form-item-control-wrapper"
+        >
+          <div
+            class="ant-form-item-control has-error"
+          >
+            <span
+              class="ant-form-item-children"
+            >
+              <textarea
+                class="ant-input"
+                data-testid="translation-input-textarea"
+                name="ABC"
+              />
+            </span>
+            <div
+              class="ant-form-explain show-help-appear"
+            >
+              nie powinno byc puste
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+`;

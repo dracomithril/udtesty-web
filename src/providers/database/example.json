@@ -1,0 +1,144 @@
+[
+  {
+    "id": "ABCA",
+    "qid": 1,
+    "rotate": true,
+    "content": {
+      "en": "Technical Resolution of the technical mine may already be used in the database:",
+      "pl": "Urządzenie Techniczne objęte dozorem Technicznym może być eksploatowane na podstawie:",
+      "ua": "Технічне рішення технічної шахти вже може використовуватися в базі даних:"
+    },
+    "choices": [
+      {
+        "correct": false,
+        "value": {
+          "en": "an oral or written authorization issued by an authorized restorer",
+          "pl": "zezwolenia ustnego lub pisemnego wydanego przez upoważnionego konserwatora",
+          "ua": "усний або письмовий дозвіл, виданий уповноваженим реставратором"
+        }
+      },
+      {
+        "correct": true,
+        "value": {
+          "en": "an important decision permitting the operation of the competent technical supervision unit issued by the authority",
+          "pl": "ważnej decyzji zezwalającej na eksploatację wydanej przez organ właściwej jednostki dozoru technicznego",
+          "ua": "важливе рішення, що дозволяє працювати компетентному підрозділу технічного нагляду, виданому органом влади"
+        }
+      },
+      {
+        "correct": false,
+        "value": {
+          "en": "CE marking on the device",
+          "pl": "oznaczenia CE zamieszczonego na urządzeniu",
+          "ua": "Маркування CE на пристрої"
+        }
+      },
+      {
+        "correct": false,
+        "value": {
+          "en": "a declaration of conformity issued by the manufacturer",
+          "pl": "deklaracji zgodności wystawionej przez wytwórcę",
+          "ua": "декларація про відповідність, видана виробником"
+        }
+      }
+    ],
+    "picture": {
+      "alt": ""
+    }
+  },
+  {
+    "id": "ABCB",
+    "qid": 21,
+    "rotate": true,
+    "content": {
+      "en": "The responsible for ensuring proper operation and maintenance of the technical device is:",
+      "pl": "Odpowiedzialnym za zapewnienie właściwej obsługi i konserwacji urządzenia technicznego jest:",
+      "ua": "Відповідальним за забезпечення належної роботи та обслуговування технічного пристрою є:"
+    },
+    "choices": [
+      {
+        "correct": true,
+        "value": {
+          "en": "operating the technical device",
+          "pl": "eksploatujący urządzenie techniczne",
+          "ua": "експлуатація технічного пристрою"
+        }
+      },
+      {
+        "correct": false,
+        "value": {
+          "en": "the body of the competent technical supervision unit",
+          "pl": "organ właściwej jednostki dozoru technicznego",
+          "ua": "орган компетентного підрозділу технічного нагляду"
+        }
+      },
+      {
+        "correct": false,
+        "value": {
+          "en": "National Labor Inspectorate",
+          "pl": "Państwowa Inspekcja Pracy",
+          "ua": "Національна інспекція праці"
+        }
+      },
+      {
+        "correct": false,
+        "value": {
+          "en": "UDT inspector",
+          "pl": "inspektor UDT",
+          "ua": "інспектор УДТ"
+        }
+      }
+    ],
+    "picture": {
+      "alt": ""
+    }
+  },
+  {
+    "id": "ACBB",
+    "qid": 53,
+    "rotate": true,
+    "content": {
+      "en": "Complete the equipment processing device without consulting the body including installation supervision units",
+      "pl": "Dokonujący przeróbek urządzenia technicznego bez uzgodnienia z organem właściwej jednostki dozoru technicznego",
+      "ua": "Комплектуйте обладнання для обробки обладнання без консультації з органом, включаючи підрозділи нагляду за установкою"
+    },
+    "picture": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/DIN_4844-2_D-M011.svg/1200px-DIN_4844-2_D-M011.svg.png",
+      "alt": "buckle up"
+    },
+    "choices": [
+      {
+        "correct": true,
+        "value": {
+          "en": "subject to a fine or restriction of liberty",
+          "pl": "podlega karze grzywny lub ograniczenia wolności",
+          "ua": "за умови штрафу чи обмеження волі"
+        }
+      },
+      {
+        "correct": false,
+        "value": {
+          "en": "subject to a penalty fine",
+          "pl": "podlega ukaraniu mandatem karnym",
+          "ua": "підлягає стягненню"
+        }
+      },
+      {
+        "correct": false,
+        "value": {
+          "en": "not subject to penalty",
+          "pl": "nie podlega karze",
+          "ua": "не підлягає стягненню"
+        }
+      },
+      {
+        "correct": false,
+        "value": {
+          "en": "all the answers are correct",
+          "pl": "wszystkie odpowiedzi są poprawne",
+          "ua": "всі відповіді правильні"
+        }
+      }
+    ]
+  }
+]

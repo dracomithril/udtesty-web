@@ -1,18 +1,19 @@
 import React from "react";
-import { Layout } from "antd";
+import { BrowserRouter as Router } from "react-router-dom";
 import "antd/dist/antd.css";
-import { Header } from "./Header";
+import "./i18n";
+import AppLayout from "./AppLayout";
+import RootRoutes from "./routes/RootRoutes";
 
 function App() {
   return (
-    <Layout>
-      <Header />
-      <Layout>
-        <Layout.Sider>Sider</Layout.Sider>
-        <Layout.Content>Content</Layout.Content>
-      </Layout>
-    </Layout>
+    <Router>
+      <AppLayout >
+        <RootRoutes />
+      </AppLayout>
+    </Router>
   );
 }
 
 export default App;
+

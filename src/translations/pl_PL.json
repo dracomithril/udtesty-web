@@ -1,0 +1,83 @@
+{
+  "tests": {
+    "get": "pobierz",
+    "name": "nazwa",
+    "description": "opis",
+    "count": "ilość",
+    "languages": "języki",
+    "add": "dodaj test",
+    "select": "wybierz test",
+    "test_name": "nazwa testu",
+    "obtained_questions_for": "pobrano pytania dla testu"
+  },
+  "tokens": {
+    "get_tokens": "pobierz tokeny",
+    "add_new": "dodaj nowy"
+  },
+  "questions": {
+    "finish": "Zakończ",
+    "result": "Wynik"
+  },
+  "common": {
+    "edit": "edytuj",
+    "delete": "usuń",
+    "download": "pobierz",
+    "save": "zapisz",
+    "save_to_file": "Zapisz do pliku",
+    "choose_lang": "Wybierz język"
+  },
+  "usersPage": {
+    "title": "Użytkownicy",
+    "email": "em@il:",
+    "submit": "zmień",
+    "get_users": "pobierz użytkowników",
+    "select_user": "wybierz użytkownika",
+    "update_error": "Problem z aktualizacją danych użytkownika"
+  },
+  "menu": {
+    "groups": {
+      "instructor": "instruktor",
+      "moderator": "moderator",
+      "admin": "administrator",
+      "common": "wspólne"
+    },
+    "home": "strona główna",
+    "presentation": "prezentacja",
+    "showTests": "testy",
+    "addTest": "dodaj testy",
+    "addQuestion": "dodaj pytania",
+    "copyQuestion": "kopiuj pytania",
+    "showQuestion": "pytania",
+    "users": "użytkownicy",
+    "addTokens": "dodaj tokeny",
+    "showTokens": "tokeny",
+    "backup": "backup/restore",
+    "cookies_policy": "polityka cookies"
+  },
+  "question_form": {
+    "missing_content": "Uzupełnij wszytskie czerwone pola",
+    "no_answer": "Brak prawidłowej odpowiedzi",
+    "question_nr": "numer pytania:",
+    "rotate_questions": "rotuj pytania",
+    "add_new": "Dodaj nowe",
+    "update_question": "Aktualizuj pytanie",
+    "question": "PYTANIE:",
+    "answers": "ODPOWIEDZI:",
+    "reset": "reset",
+    "add": "dodaj",
+    "update": "aktualizuj"
+  },
+  "home": {
+    "start": "start",
+    "quiz": "start quiz",
+    "put_token": "podaj token",
+    "saved_tokens": "zapisane tokeny:"
+  },
+  "general": {
+    "new_app_version": "Nowa wersja",
+    "confirm": "rozumiem",
+    "new_app_version_details": "Jest dostepna nowa wersja aplikacji. Gotowy na zmianę?",
+    "cookie_disclaimer": "Ta strona korzysta z ciasteczek aby świadczyć usługi na najwyższym poziomie. Dalsze korzystanie ze strony oznacza, że zgadzasz się na ich użycie."
+  },
+  "lang": "pl"
+}

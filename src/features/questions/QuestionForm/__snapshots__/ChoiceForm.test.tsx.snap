@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ChoiceForm should react on correct answer change 1`] = `
+<body>
+  <div>
+    <div
+      class="sc-bdVaJa nVCzP"
+      data-testid="choice_container"
+    >
+      <header
+        class="sc-bwzfXH eYXKZd"
+      >
+        <span>
+          A.
+        </span>
+        <label
+          for="correct.A"
+        >
+          poprawna
+          <label
+            class="ant-checkbox-wrapper ant-checkbox-wrapper-checked"
+          >
+            <span
+              class="ant-checkbox ant-checkbox-checked"
+            >
+              <input
+                checked=""
+                class="ant-checkbox-input"
+                data-testid="choice-correct-checkbox"
+                id="correct.A"
+                name="A"
+                type="checkbox"
+                value=""
+              />
+              <span
+                class="ant-checkbox-inner"
+              />
+            </span>
+          </label>
+        </label>
+      </header>
+    </div>
+  </div>
+</body>
+`;
